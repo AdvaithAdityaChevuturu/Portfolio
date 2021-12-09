@@ -1,0 +1,31 @@
+/* Google Fonts - Import */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+:root {
+  --primary-color: #ffffff;
+  --secondary-color: #ffffff;
+  --bg-color-1: #011402;
+  --bg-color-2: #1b3828;
+  --primary-font-size: 1.1rem;
+  --primary-font: "Montserrat", sans-serif;
+  --line-height: 1.5rem;
+}
+
+.container {
+  padding: 1.5rem 10rem;
+}
+
+.shadow {
+  -webkit-box-shadow: 11px 11px 34px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 11px 11px 34px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: 11px 11px 34px -12px rgba(0, 0, 0, 0.75);
+}
+
+.montserrat-family {
+  font-family: "Montserrat", sans-serif;
+}
+
+.roboto-mono-family {
+  font-family: "Roboto Mono", sans-serif;
+}
