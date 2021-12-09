@@ -21,5 +21,5 @@
    This will be the URL of your portfolio.
 
 1. Run `npm run deploy` to create build.
-1. Boom. Your portfolio is ready. Use GitHub pages or any other hosting service to publish your portfolio.
+
 
